@@ -13,6 +13,8 @@ I am Shekhar Sikka, a graphics designer committed to give my best in all the fre
 - Illustrations
 ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs2/105734761/original/b2a94dc88812ebfdf2121b9d758bd210da9b7594/edit-your-photo-background-professionally.png)
 
+## Purchase [Low Poly Table Collection with Materials](https://3docean.net/item/low-poly-table-collection/21882059)
+## Purchase [Exhibition Stall](https://3docean.net/item/exhibition-stall/21717922)
 
 ## Contact
 email: shekharsikka963@gmail.com
