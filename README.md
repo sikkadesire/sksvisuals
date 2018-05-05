@@ -5,7 +5,7 @@ I am Shekhar Sikka, a graphics designer committed to give my best in all the fre
 
 ### Services offered
 - Logo Designing
-![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs3/108201162/original/2bec5c990b99a47f4f8baf1bb446ab81dc0bf20e/design-3-awesome-logo-for-just-5-dollars.png)
+![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs2/108201162/original/80fc6cf25b1e7f00677d6d7c6bd2b33ac155c81b/design-3-awesome-logo-for-just-5-dollars.png)
 - Play Store Banners
 ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs3/108201162/original/3a8cc4541df7170de6b707771f4fa8496996d547/design-3-awesome-logo-for-just-5-dollars.png)
 - 3D Modelling
