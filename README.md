@@ -5,7 +5,7 @@ I am Shekhar Sikka, a graphics designer committed to give my best in all the fre
 
 ### Services offered
 - Logo Designing
-![logo designs](tryu.png)
+![logo designs](/desktop/tryu.png)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
