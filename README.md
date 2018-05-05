@@ -1,6 +1,9 @@
 ## Welcome to SKSVisuals
 
-You can use the [editor on GitHub](https://github.com/sikkadesire/sksvisuals/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Hello Friends
+I am Shekhar Sikka, a graphics designer committed to give my best in all the freelance work assigned to me by you. 
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
