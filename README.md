@@ -6,6 +6,8 @@ I am Shekhar Sikka, a graphics designer committed to give my best in all the fre
 ### Services offered
 - Logo Designing
 ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs3/108201162/original/2bec5c990b99a47f4f8baf1bb446ab81dc0bf20e/design-3-awesome-logo-for-just-5-dollars.png)
+- Play Store Banner
+![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs3/108201162/original/2869cca2c66f0e429f732116824f915359d9c530/design-3-awesome-logo-for-just-5-dollars.png)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
