@@ -16,6 +16,6 @@ I am Shekhar Sikka, a graphics designer committed to give my best in all the fre
 
 ## Contact
 email: shekharsikka963@gmail.com
-shekharsikka@outlook.com
+ and shekharsikka@outlook.com
 
 
