@@ -12,7 +12,10 @@ I am Shekhar Sikka, a graphics designer & 3D artist with one year experience in 
 ![](https://sg.fiverrcdn.com/photos/118153775/original/c9db58d9d2592d5d1a3a6b64f61b3357ec024b07.png?1538644157)
 #### - Illustrations and Posters
 ![](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs2/105734761/original/b2a94dc88812ebfdf2121b9d758bd210da9b7594/edit-your-photo-background-professionally.png)
-I am also available for 2D Animation work, Video Editing and Photoshop work. I can provide you samples created by me in these areas on asking.
+#### - 2D Animations
+![](<a href="https://imgflip.com/gif/33qds9"><img src="https://i.imgflip.com/33qds9.gif" title="made at imgflip.com"/></a>)
+
+I am also available for Video Editing and Photoshop work. I can provide you samples created by me in these areas on asking.
 
 ## Contact
 email: shekharsikka963@gmail.com
