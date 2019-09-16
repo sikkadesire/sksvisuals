@@ -15,7 +15,7 @@ I am Shekhar Sikka, a graphics designer & 3D artist with one year experience in 
 
 I am also available for 2D Animations, Video Editing and Photoshop work. I can provide you samples created by me in these areas on asking.
 
-You can also look at a basic game I've created:- ![](https://play.google.com/store/apps/details?id=com.UniqueGamesStudio.DrivetheBall) 
+You can also look at a basic game 'Drive the Ball', I've created:- ![](https://play.google.com/store/apps/details?id=com.UniqueGamesStudio.DrivetheBall) 
 
 ## Contact
 email: shekharsikka963@gmail.com
